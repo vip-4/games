@@ -1,0 +1,17 @@
+# Games Hub
+
+> 142 free browser games playable instantly in the browser. Built with Phaser 3, Three.js and vanilla JavaScript. No installs, no signups.
+
+## Key facts
+- 142 playable browser games in one static collection.
+- Technologies: Phaser 3, Three.js, vanilla JavaScript.
+- Search and filter the catalog by category.
+- No build step required to host; works on GitHub Pages.
+- License: MIT.
+- Live hub: https://vip-4.github.io/games/
+- Upstream repository: https://github.com/sausi-7/games
+
+## Documentation
+- Home: https://vip-4.github.io/games/
+- FAQ: https://vip-4.github.io/games/#faq
+- Machine-readable summary: https://vip-4.github.io/games/llms.txt
